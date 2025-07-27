@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Danna",
+    "edad": "1 año",
+    "tipo": "perra",
+    "color": "blanca con crema",
+    "enfermedad": "alergia"
+  },
+  {
+    "nombre": "Benito",
+    "edad": "2 años",
+    "tipo": "perro",
+    "color": "blanco",
+    "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "Yuri",
+    "edad": "2 años",
+    "tipo": "perra",
+    "color": "negro con beige",
+    "enfermedad": "displacia"
+  }
+]
